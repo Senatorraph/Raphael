@@ -19,5 +19,5 @@ Full-stack developer building scalable web apps, AI automations, and digital pro
 - Project Name – short 1-line description
 
 ## 📫 Contact
-- Email: senatorraph101#
+- Email: senatorraph101@gmail.com
 - Portfolio: on the way
